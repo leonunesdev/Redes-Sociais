@@ -10,6 +10,7 @@
 }
 
 html {
+  font-size: 80%;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -21,31 +22,31 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 414px;
+  width: 41.4rem;
   margin: 0 auto;
 }
 
 .avatar-container {
-  width: 213px;
-  height: 213px;
+  width: 21.3rem;
+  height: 21.3rem;
   border-radius: 50%;
   border: 2px solid var(--purple);
-  margin: 120px 0 15px 0;
+  margin: 12.0rem 0 1.5rem 0;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .avatar {
-  width: 209px;
+  width: 20.9rem;
   border-radius: 50%;
 }
 
 .main-socialnetwork {
   font-weight: 300;
-  font-size: 16px;
-  line-height: 24px;
-  margin-bottom: 33px;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  margin-bottom: 3.3rem;
   border-radius: 10px;
   box-shadow: 2px 5px 10px rgb(172, 77, 209);
 }
@@ -67,15 +68,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 326px;
-  height: 49px;
-  margin-bottom: 16px;
+  width: 32.6rem;
+  height: 4.9rem;
+  margin-bottom: 1.6rem;
   border: 2px solid var(--purple);
   border-radius: 10px;
   color: var(--purple);
   font-weight: 600;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
   box-shadow: 2px 5px 10px rgb(172, 77, 209);
 }
 
@@ -83,7 +84,7 @@ body {
   display: flex;
   list-style: none;
   gap: 30px;
-  margin: 15px 0;
+  margin: 1.5rem 0;
   border-radius: 10px;
   box-shadow: 2px 5px 5px rgb(172, 77, 209);
 }
