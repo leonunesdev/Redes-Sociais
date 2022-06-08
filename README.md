@@ -20,6 +20,6 @@ Nesse projeto foi desenvolvido uma página com uma lista de links que pode ser u
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/44tFOvsL8Bf9bKYznESddX/DD-%2F-Social-links-(Copy)?node-id=0%3A1">desse link</a>. É necessário ter conta no <a href="https://www.figma.com/files/recent?fuid=1102968563677691331">Figma</a> para acessá-lo.
 
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/leonunesdev/Redes-sociais/blob/main/LICENSE"></a>
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/leonunesdev/Redes-sociais/blob/main/LICENSE">LICENSE</a>
 
 Feito com 💜 by Leandro Nunes 👋
